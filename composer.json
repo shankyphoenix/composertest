@@ -1,1 +1,1 @@
-{    "name": "shankyphoenix/composertest",	"description" : "for testing only",	"version": "2.1.6",	"autoload": {    "psr-0": {        "test\A": "src/"		}	}}
+{    "name": "shankyphoenix/composertest",	"description" : "for testing only",	"version": "2.1.7",	"autoload": {    "psr-0": {        "test\\A": "src/"		}	}}
