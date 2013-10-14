@@ -5,6 +5,7 @@ class C
 	function __construct()
 	{
 		echo "hi i am C";
+		
 	}
 }
 
