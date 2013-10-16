@@ -1,1 +1,1 @@
-{    "name": "shankyphoenix/composertest",	"description" : "for testing only",	"version": "3.1.1",	"autoload": {    "psr-0": {        "test\\A": "src/",		"test\\B": "src/",		"test\\C": "src/",		"test\\D": "src/"		}	}}
+{    "name": "shankyphoenix/composertest",	"description" : "for testing only",	"version": "3.1.1",	"autoload": {    "psr-0": {		"core\\sValidation": "src/",		"core\\MySQL": "src/"		}	}}
