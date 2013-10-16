@@ -41,6 +41,7 @@ class MySQL {
 		
 		$this->Connect();
 		
+		
 	}
 	
 	
