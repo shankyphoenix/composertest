@@ -39,7 +39,7 @@ class sValidation
 				
 			}
 		}
-		echo "sValidation";
+		
 	}
 	
 	function file_upload_error_message($error_code) {

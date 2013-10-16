@@ -40,7 +40,7 @@ class MySQL {
 		$this->hostname = $hostname;
 		
 		$this->Connect();
-		echo "Test Mysql";
+		
 	}
 	
 	
